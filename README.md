@@ -1,5 +1,5 @@
 # Type Data Python
-4 built-in data types in Python used to store collections of data, there are List, Tuple, Set, and Dictionary, all with different qualities and usage.
+4 built-in data types in Python used to store collections of data, there are **List**, **Tuple**, **Set**, and **Dictionary**, all with different qualities and usage.
 
 ## **List**
 - To declare a list, brackets **[ ]** are used and each member is separated by a comma.
