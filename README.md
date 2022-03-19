@@ -9,14 +9,14 @@
 
 ## **Tuple**
 - A tuple is a collection which is *ordered, allow duplicate values* and *unchangeable*.
-- Tuples are written with round brackets **(_)**
+- Tuples are written with round brackets **( )**
 - Tuple items can be of any data type
 
 ## **Set**
 - A set is a collection which is *unordered*, *unchangeable*, and *unindexed*.
-- Sets are written with curly brackets **{_}**
+- Sets are written with curly brackets **{ }**
 - Set items can be of any data type
 
 ## **Dictionary**
 - Dictionary items are presented in key:value pairs, and can be referred to by using the key name
-- Dictionaries are written with curly brackets **{_}**, and have keys and values
+- Dictionaries are written with curly brackets **{ }**, and have keys and values
