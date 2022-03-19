@@ -7,6 +7,9 @@
 - List items are *ordered, changeable*, and *allow duplicate values*
 - Lists can contain members of the same or different types
 
+### **Slicing**
+The method to access items from a list calls the list's name followed by the item's index in question, namely with the format name list [index]. In addition, access to a number of items from the index to the index can also be done.
+
 ## **Tuple**
 - A tuple is a collection which is *ordered, allow duplicate values* and *unchangeable*.
 - Tuples are written with round brackets **( )**
